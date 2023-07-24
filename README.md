@@ -1,7 +1,7 @@
 mlops_main
 ==============================
 
-This Project is end to end Machine Learning project of learning.
+This Project code is for easy deployment of other ML projects
 
 Project Organization
 ------------
